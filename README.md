@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LISZTOMANIC_XD)  [![TELEGRAM](https://img.shields.io/badge/Telegram-%230078D4.svg?logo=Telegram&logoColor=white)](https://t.me/lisztomanic_xd)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/LISZTOMANIC_XD)  [![TELEGRAM](https://img.shields.io/badge/Telegram-%230078D4.svg?logo=Telegram&logoColor=white)](https://t.me/lisztomanic_xd) [![GMAIL](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=Gmail&logoColor=white)](mailto:kavyashah8788@gmail.com)
 
 
 # 💻 Tech Stack:
